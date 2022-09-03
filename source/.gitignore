@@ -1,0 +1,9 @@
+nimcache
+libusb
+obsolete
+.directory
+*.dll
+*.exe
+*.sublime*
+examples/list_devices_example
+examples/hotplug_example
